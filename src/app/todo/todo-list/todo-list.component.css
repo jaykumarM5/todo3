@@ -1,0 +1,35 @@
+div {
+  min-width: 300px;
+}
+
+h2 {
+  font-size: 0.9em;
+  background-color: #009879;
+  color: #ffffff;
+  margin-top: 25px;
+  margin-left: 50px;
+  padding: 5px 15px;
+  padding-bottom: 7px;
+  text-align: center;
+  font-weight: bold;
+}
+
+ul {
+  list-style: none;
+}
+
+mat-card {
+  background-color: #f9f9f9;
+  margin: 10px;
+  position: relative;
+  width: 84%;
+}
+mat-card-title {
+  font-size: 1rem;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+mat-card button {
+  position: absolute;
+  right: 10px;
+  top: 5px;
+}
